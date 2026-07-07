@@ -21,8 +21,7 @@ int main()
     cout << "Age: " << age << endl;
     cout << "Height: " << height << endl;
     cout << "Grade: " << grade << endl;
-    cout << "Value of PI: " << pi << endl;
-    cout << "Passed: " << isPassed << endl;
+   
 
     return 0;
 }
